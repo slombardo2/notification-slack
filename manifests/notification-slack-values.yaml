@@ -18,7 +18,7 @@
 ###################################################################################################
 
 image:
-  repository: ibmstocktrader/notification-slack   # Docker Hub
+  repository: slombardo2/notification-slack   # Docker Hub
   #repository: mycluster.icp:8500/stock-trader/notification-slack         # IBM Cloud Private
   #repository: registry.ng.bluemix.net/stock_trader/notification-slack    # IBM Container Service
   tag: latest
