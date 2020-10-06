@@ -74,7 +74,7 @@ public class NotificationSlack extends Application {
 	           spec:
 	             containers:
 	             - name: notification-slack
-	               image: ibmstocktrader/notification-slack:latest
+	               image: slombardo2/notification-slack:latest
 	               env:
 	                 - name: OW_URL
 	                   valueFrom:
